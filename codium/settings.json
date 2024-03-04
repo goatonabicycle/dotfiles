@@ -1,0 +1,69 @@
+{
+  "tabnine.experimentalAutoImports": true,
+  "editor.formatOnSave": true,
+  "editor.inlineSuggest.enabled": true,
+  "workbench.sideBar.location": "right",
+  "editor.minimap.enabled": false,
+  "workbench.statusBar.visible": false,
+  "git.autofetch": true,
+  "cSpell.enabled": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.detectIndentation": true,
+  "cSpell.enableFiletypes": ["mdx"],
+  "git.confirmSync": false,
+  "prettier.bracketSameLine": true,
+  "prettier.singleAttributePerLine": true,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.inlineSuggest.showToolbar": "always",
+  "explorer.confirmDelete": false,
+  "editor.stickyScroll.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "extensions.ignoreRecommendations": true,
+  "files.autoSave": "onWindowChange",
+  "git.openRepositoryInParentFolders": "never",
+  "markdown.preview.fontSize": 36,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.formatOnPaste": false,
+  "terminal.integrated.fontSize": 14,
+  "window.zoomLevel": 1,
+  "editor.lineHeight": 0,
+  "editor.linkedEditing": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.suggestSelection": "first",
+  "workbench.editor.labelFormat": "medium",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.tabSize": 2,
+  "gitlens.mode.active": "zen",
+  "gitlens.graph.minimap.dataType": "lines",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.formatOnSave": false
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "go.toolsManagement.autoUpdate": true,
+  "[go]": {
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "golang.go"
+  }
+}
