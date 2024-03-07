@@ -1,0 +1,21 @@
+## Extensions
+
+eamodio.gitlens
+streetsidesoftware.code-spell-checker
+dbaeumer.vscode-eslint
+fosshaas.fontsize-shortcuts
+github.copilot
+pkief.material-icon-theme
+esbenp.prettier-vscode
+yoavbls.pretty-ts-errors
+golang.go
+casualjim.gotemplate
+anteprimorac.html-end-tag-labels
+abusaidm.html-snippets
+equinusocio.vsc-material-theme
+equinusocio.vsc-material-theme-icons
+unifiedjs.vscode-mdx
+alexcvzz.vscode-sqlite
+a-h.templ
+bradlc.vscode-tailwindcss
+formulahendry.auto-close-tag
