@@ -16,5 +16,3 @@ alexcvzz.vscode-sqlite
 a-h.templ
 bradlc.vscode-tailwindcss
 formulahendry.auto-close-tag
-catppuccin.catppuccin-vsc
-catppuccin.catppuccin-vsc-icons
